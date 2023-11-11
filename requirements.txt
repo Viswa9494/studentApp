@@ -1,4 +1,4 @@
 flask
-sklearn
+scikit-learn
 gunicorn
-pickle
+numpy
